@@ -5,5 +5,5 @@
  * Date: 02/07/17
  * Time: 01:40
  */
-phpinfo();
+echo 'working';
 
