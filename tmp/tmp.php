@@ -6,4 +6,6 @@
  * Time: 00:38
  */
 
-echo 'hello dear Pramod';
+echo 'hello pc!';
+
+?>
