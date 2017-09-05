@@ -8,7 +8,6 @@
 
 echo 'hello pramod!';
 
-
 ?>
 
 
