@@ -6,4 +6,4 @@
  * Time: 2:00 AM
  */
 
-echo 'hi';
+echo 'hi, how are you?';
